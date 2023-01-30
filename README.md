@@ -1,16 +1,16 @@
-### Hi there 👋
+## Chi sono
+Ciao, mi chiama Niccolò, snon uno studente di informormatica e nel tempo libero uno sviluppatore.
 
-<!--
-**NickElTopoQueGira/NickElTopoQueGira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Le mie conoscenze
+- Java 
+- .Net tecnology (C#, VisualBasic)
+- C / C++
+- Javascript / Typescript
+- Python
+- Html / CSS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cosa si può trovare sulla mia pagina
+Sulla mia pagina si possono trovare diversi progetti del tipo:
+-  Soluzione per la domotica (utilizzano arduino, esp)
+- Applicativi desktop
+- Applicativi per dispositivi mobile multipiattaforma
