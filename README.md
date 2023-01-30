@@ -1,6 +1,6 @@
 # Hi there, I'm Nick 👋  
 ## Chi sono
-Ciao, mi chiama Niccolò, snon uno studente di informormatica e nel tempo libero uno sviluppatore.
+Ciao, mi chiamo Niccolò, snon uno studente di informormatica e nel tempo libero uno sviluppatore.
 
 ## Le mie conoscenze
 - Java 
